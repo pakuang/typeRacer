@@ -73,10 +73,10 @@ A dynamic platform that allows assessment of user typing skills including typing
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![Choosing Sentence](client/READMEAssets/typeRacerDemo1.png)
-![Typing Demo](client/READMEAssets/typeRacerDemo2.png)
-![Typing Stats](client/READMEAssets/typeRacerDemo3.png)
-![Typing Stats History](client/READMEAssets/typeRacerDemo4.png)
+![Choosing Sentence](READMEAssets/typeRacerDemo1.png)
+![Typing Demo](READMEAssets/typeRacerDemo2.png)
+![Typing Stats](READMEAssets/typeRacerDemo3.png)
+![Typing Stats History](READMEAssets/typeRacerDemo4.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
